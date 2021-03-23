@@ -1,1 +1,36 @@
 This is file 1 
+
+//To know the current installed version :
+git --version
+
+ 
+
+//To make a repository : 
+git init
+
+ 
+
+//To create file : 
+touch filename.txt
+
+ 
+
+//To edit or create file : 
+notepad filename.txt 
+
+ 
+
+//To know the status of the repo : 
+git status 
+
+ 
+
+//To add all files together to staging area :
+git add .
+
+ 
+
+//To commit to local master :(Message is mandatory)
+git commit -m "Commit Message"
+
+ 
